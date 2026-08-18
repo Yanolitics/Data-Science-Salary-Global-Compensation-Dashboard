@@ -68,7 +68,7 @@ The project follows a decoupled spreadsheet modeling workflow to ensure formula 
   * **Dynamic Parameter Cards:** KPI callouts driven by multi-criteria array formulas responding to user drop-downs in real time.
 
 <!-- GIF PLACEHOLDER 4: Full Interactive Dashboard in Action -->
-<img width="1102" height="569" alt="Untitled design" src="https://github.com/user-attachments/assets/3d0b5f79-27ac-4a33-8d8b-06fb3b360bef" />
+<img width="902" height="369" alt="Untitled design" src="https://github.com/user-attachments/assets/3d0b5f79-27ac-4a33-8d8b-06fb3b360bef" />
 
 ---
 
