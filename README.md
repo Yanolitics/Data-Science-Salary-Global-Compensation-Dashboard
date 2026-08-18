@@ -55,7 +55,7 @@ The project follows a decoupled spreadsheet modeling workflow to ensure formula 
   * Prevented invalid user entries, standardized parameter inputs, and eliminated broken calculation states.
 
 <!-- GIF PLACEHOLDER 3: Interactive Data Validation Dropdowns -->
-<img width="937" height="810" alt="download" src="https://github.com/user-attachments/assets/9c684969-130b-4474-b4a5-f2fa3032ec56" />
+<img width="737" height="610" alt="download" src="https://github.com/user-attachments/assets/9c684969-130b-4474-b4a5-f2fa3032ec56" />
 
 
 ---
@@ -68,7 +68,8 @@ The project follows a decoupled spreadsheet modeling workflow to ensure formula 
   * **Dynamic Parameter Cards:** KPI callouts driven by multi-criteria array formulas responding to user drop-downs in real time.
 
 <!-- GIF PLACEHOLDER 4: Full Interactive Dashboard in Action -->
-<img width="902" height="369" alt="Untitled design" src="https://github.com/user-attachments/assets/3d0b5f79-27ac-4a33-8d8b-06fb3b360bef" />
+<img width="1152" height="619" alt="Untitled design" src="https://github.com/user-attachments/assets/d33638ab-8065-4c22-be6b-4f41778a60d2" />
+
 
 ---
 
