@@ -43,8 +43,8 @@ The project follows a decoupled spreadsheet modeling workflow to ensure formula 
     ```
 
 <!-- IMAGE PLACEHOLDER 2: Background Formula Calculation Tables -->
-<img width="850" height="450" alt="Background Analytical Calculation Tables" src="INSERT_YOUR_IMAGE_OR_GIF_URL_HERE" />
-> **📸 Asset Recommendation:** Take a screenshot of your background/working calculation sheet showcasing the dynamic array results and spill ranges (`J2#`).
+<img width="287" height="220" alt="Screenshot 2026-08-18 135504" src="https://github.com/user-attachments/assets/069f5448-ef85-4a14-9959-0ffb20f41027" />
+
 
 ---
 
@@ -55,8 +55,8 @@ The project follows a decoupled spreadsheet modeling workflow to ensure formula 
   * Prevented invalid user entries, standardized parameter inputs, and eliminated broken calculation states.
 
 <!-- GIF PLACEHOLDER 3: Interactive Data Validation Dropdowns -->
-<img width="425" height="400" alt="Data Validation Dropdown Mechanics" src="INSERT_YOUR_GIF_URL_HERE" />
-> **🎥 Asset Recommendation:** Record a 5-second GIF demonstrating clicking through the `Job Title` and `Country` drop-down menus and watching the values update cleanly.
+<img width="937" height="810" alt="download" src="https://github.com/user-attachments/assets/9c684969-130b-4474-b4a5-f2fa3032ec56" />
+
 
 ---
 
