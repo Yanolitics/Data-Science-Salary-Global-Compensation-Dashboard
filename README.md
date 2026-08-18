@@ -20,10 +20,6 @@ The project follows a decoupled spreadsheet modeling workflow to ensure formula 
 * **Source Attributes:** Job titles, base/annual salaries (`salary_year_avg`), employment schedule types, geographic locations, and required tech stacks.
 * **Data Hygiene:** Excluded zero-value records (`jobs[salary_year_avg] <> 0`) and sanitized schedule entries to prevent skewed metric calculations.
 
-<!-- IMAGE PLACEHOLDER 1: Dataset Overview -->
-<img width="850" height="400" alt="Raw Dataset and Table Structure" src="INSERT_YOUR_IMAGE_OR_GIF_URL_HERE" />
-> **📸 Asset Recommendation:** Take a crisp screenshot showing the structured `jobs` Excel table with formatted column headers and numeric styling.
-
 ---
 
 ### 2. Analytical Engine: Dynamic Array & Logic Modeling
@@ -72,8 +68,7 @@ The project follows a decoupled spreadsheet modeling workflow to ensure formula 
   * **Dynamic Parameter Cards:** KPI callouts driven by multi-criteria array formulas responding to user drop-downs in real time.
 
 <!-- GIF PLACEHOLDER 4: Full Interactive Dashboard in Action -->
-<img width="850" height="550" alt="Interactive Salary Dashboard Overview" src="INSERT_YOUR_GIF_URL_HERE" />
-> **🎥 Asset Recommendation:** Record a short, high-quality GIF interacting with the full dashboard—changing drop-downs and showing both the bar chart and map updating simultaneously.
+<img width="1152" height="619" alt="Untitled design" src="https://github.com/user-attachments/assets/3d0b5f79-27ac-4a33-8d8b-06fb3b360bef" />
 
 ---
 
