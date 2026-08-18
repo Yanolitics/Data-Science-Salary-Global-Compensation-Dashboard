@@ -55,7 +55,7 @@ The project follows a decoupled spreadsheet modeling workflow to ensure formula 
   * Prevented invalid user entries, standardized parameter inputs, and eliminated broken calculation states.
 
 <!-- GIF PLACEHOLDER 3: Interactive Data Validation Dropdowns -->
-<img width="737" height="610" alt="download" src="https://github.com/user-attachments/assets/9c684969-130b-4474-b4a5-f2fa3032ec56" />
+<img width="537" height="410" alt="download" src="https://github.com/user-attachments/assets/9c684969-130b-4474-b4a5-f2fa3032ec56" />
 
 
 ---
